@@ -25,6 +25,15 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 <a href="https://www.linkedin.com/in/satish-dixit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kiranbhaktisagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+<h3 align="left">My Skills:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,graphql,mysql,aws,js,html,css,jquery,react,nodejs,selenium,git,idea,eclipse,vscode,visualstudio,postman,maven,linux)](https://skillicons.dev)
 
 
+<h3 align="left">Today Quote:</h3>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<h3 align="left">SMILE</h3>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
