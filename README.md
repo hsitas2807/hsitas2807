@@ -16,8 +16,6 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hsitas2807)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dixitsatish34/<1>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dixitsatish34/1" alt="Recent article #1"></a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
