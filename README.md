@@ -17,6 +17,7 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hsitas2807)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@dixitsatish34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" height="30" width="40" /></a>
@@ -26,29 +27,4 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 </p>
 
 
-<h3 align="left">My Skills:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,graphql,aws,js,html,css,jquery,react,nodejs,selenium,git,vscode,idea,visualstudio,postman2,maven,linux)](https://skillicons.dev)
 
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-
-<!--
-**hsitas2807/hsitas2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
