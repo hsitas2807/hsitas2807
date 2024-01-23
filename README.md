@@ -1,4 +1,5 @@
 [![MasterHead](https://github.com/hsitas2807/hsitas2807/blob/main/header.png)](https://github.com/hsitas2807/)
+![](https://komarev.com/ghpvc/?username=hsitas2807)
 Software Engineering Lead | 12+ Years of Experience
 
 I am a seasoned Software Engineering Lead with over 12 years of industry experience, specializing in leading high-performing teams and delivering innovative software solutions.
@@ -23,7 +24,7 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 </p>
 
 
-
+h3 align="left">My Skills:</h3>
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,js,html,css,jquery,react,nodejs,selenium,vscode,visualstudio,postman2,maven,linux)](https://skillicons.dev)
 
 
