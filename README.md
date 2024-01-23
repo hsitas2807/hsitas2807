@@ -11,6 +11,9 @@ With a strong technical background and a deep understanding of software developm
 
 As a proactive leader, I excel in guiding and mentoring team members, fostering their professional growth, and promoting a culture of continuous learning. I prioritize effective communication and stakeholder engagement to ensure alignment with project goals and deliverables.
 
+My key strengths include strategic planning, problem-solving, and the ability to adapt to evolving business needs. I thrive in dynamic environments and have a proven track record of successfully managing complex projects from inception to deployment.
+
+If you are seeking a results-oriented Software Engineering Lead with a strong blend of technical expertise and leadership acumen, I invite you to connect with me. Let's discuss how I can contribute to your organization's success by driving innovation and delivering exceptional software solutions.
 
 [![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsitas2807)](https://github.com/anuraghazra/github-readme-stats)
 
