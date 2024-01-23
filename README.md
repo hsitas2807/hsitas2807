@@ -22,7 +22,7 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 <a href="https://www.youtube.com/@kiranbhaktisagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,oracle,mysql,aws,js,html,css)](https://skillicons.dev)
 
 
 <!--
