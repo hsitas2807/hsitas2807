@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![MasterHead](https://github.com/hsitas2807/hsitas2807/blob/main/header.png)](https://github.com/hsitas2807/)
 Software Engineering Lead | 12+ Years of Experience
 
 I am a seasoned Software Engineering Lead with over 12 years of industry experience, specializing in leading high-performing teams and delivering innovative software solutions.
@@ -10,8 +9,6 @@ With a strong technical background and a deep understanding of software developm
 
 As a proactive leader, I excel in guiding and mentoring team members, fostering their professional growth, and promoting a culture of continuous learning. I prioritize effective communication and stakeholder engagement to ensure alignment with project goals and deliverables.
 
-
-Git hub Stats
 
 [![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsitas2807)](https://github.com/anuraghazra/github-readme-stats)
 
