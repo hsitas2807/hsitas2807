@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+Software Engineering Lead | 12+ Years of Experience
+
+I am a seasoned Software Engineering Lead with over 12 years of industry experience, specializing in leading high-performing teams and delivering innovative software solutions.
+
+Throughout my career, I have successfully led and managed cross-functional teams in various industries, including BFS (Banking and Financial Services), E-commerce, Aviation, Telecom, and Technology. My expertise lies in developing scalable and robust software systems, driving project execution, and fostering a collaborative work environment.
+
+With a strong technical background and a deep understanding of software development methodologies, I have consistently delivered projects on time and within budget. I am skilled in designing and implementing efficient software architectures, utilizing cutting-edge technologies, and ensuring adherence to coding standards and best practices.
+
+As a proactive leader, I excel in guiding and mentoring team members, fostering their professional growth, and promoting a culture of continuous learning. I prioritize effective communication and stakeholder engagement to ensure alignment with project goals and deliverables.
+
+
+Git hub Stats
+
+[![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsitas2807)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hsitas2807)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 <!--
 **hsitas2807/hsitas2807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
