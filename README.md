@@ -1,5 +1,6 @@
 [![MasterHead](https://github.com/hsitas2807/hsitas2807/blob/main/header.png)](https://github.com/hsitas2807/)
 ![](https://komarev.com/ghpvc/?username=hsitas2807)
+
 Software Engineering Lead | 12+ Years of Experience
 
 I am a seasoned Software Engineering Lead with over 12 years of industry experience, specializing in leading high-performing teams and delivering innovative software solutions.
@@ -19,13 +20,22 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@dixitsatish34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5281441/satish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/satish-dixit/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kiranbhaktisagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 
-h3 align="left">My Skills:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,js,html,css,jquery,react,nodejs,selenium,vscode,visualstudio,postman2,maven,linux)](https://skillicons.dev)
+<h3 align="left">My Skills:</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,graphql,aws,js,html,css,jquery,react,nodejs,selenium,git,vscode,idea,visualstudio,postman2,maven,linux)](https://skillicons.dev)
+
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 <!--
