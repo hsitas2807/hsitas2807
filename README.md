@@ -34,6 +34,3 @@ As a proactive leader, I excel in guiding and mentoring team members, fostering 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<h3 align="left">SMILE</h3>
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
