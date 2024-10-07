@@ -1,9 +1,9 @@
 [![MasterHead](https://github.com/hsitas2807/hsitas2807/blob/main/header.png)](https://github.com/hsitas2807/)
 ![](https://komarev.com/ghpvc/?username=hsitas2807)
 
-Software Engineering Lead | 12+ Years of Experience
+Software Engineering Lead | 14+ Years of Experience
 
-I am a seasoned Software Engineering Lead with over 12 years of industry experience, specializing in leading high-performing teams and delivering innovative software solutions.
+I am a seasoned Software Engineering Lead with over 14 years of industry experience, specializing in leading high-performing teams and delivering innovative software solutions.
 
 Throughout my career, I have successfully led and managed cross-functional teams in various industries, including BFS (Banking and Financial Services), E-commerce, Aviation, Telecom, and Technology. My expertise lies in developing scalable and robust software systems, driving project execution, and fostering a collaborative work environment.
 
@@ -18,6 +18,15 @@ If you are seeking a results-oriented Software Engineering Lead with a strong bl
 [![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsitas2807)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hsitas2807)](https://github.com/ryo-ma/github-profile-trophy)
+
+License & Certificates
+1) Learning Python- LinkedIn Learning
+2) Python for Data Science and Machine Learning Essential Training- LinkedIn Learning
+3) AWS Knowledge: Architecting
+4) AWS Certified Cloud Practitioner
+5) HTML5, CSS3 and JavaScript from Microsoft
+6) OCJP
+7) Fundamentals of Digital Marketing
 
 
 <h3 align="left">Connect with me:</h3>
