@@ -19,7 +19,7 @@ If you are seeking a results-oriented Software Engineering Lead with a strong bl
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hsitas2807)](https://github.com/ryo-ma/github-profile-trophy)
 
-License & Certificates
+<b>License & Certificates</b>
 1) Learning Python- LinkedIn Learning
 2) Python for Data Science and Machine Learning Essential Training- LinkedIn Learning
 3) AWS Knowledge: Architecting
